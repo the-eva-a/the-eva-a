@@ -10,7 +10,7 @@ Do you ever find yourself watching a YouTuber make sausage 🌭 and wonder if th
 
 On a more serious note, I’m fortunate to have both a Master’s degree in Mathematics and an undergraduate education in the liberal arts 🎓, where I was encouraged to learn how to communicate and write—skills I’ve found just as valuable as crunching numbers. Whether I’m modeling everyday phenomena like tsunamis 🌊 or diving deep into quirky data sets, I believe in the power of telling compelling stories through data.
 
-I’m also a bit of a math history nerd. The story of the shepherd who figured out 1-to-1 correspondence warms my heart ❤️, and I will happily debate that it should be called the Andrew Wiles Theorem rather than Fermat’s Last Theorem. What I love most about math is that it’s often ahead of its time—sometimes centuries ahead of the sciences—leaving plenty of room for exploration and innovation.
+I’m also a bit of a math history nerd. The story of the shepherd who figured out 1-to-1 correspondence warms my heart ❤️, and I will happily maintain that it should be called the Andrew Wiles Theorem rather than Fermat’s Last Theorem. What I love most about math is that it’s often ahead of its time—sometimes centuries ahead of the sciences—leaving plenty of room for exploration and innovation.
 
 ## 🎯 What I'm Working On
 - 🔧 I’m currently sharpening my skills in an edX Data Analytics Bootcamp, diving deeper into data analysis, visualization, and all things Python.
